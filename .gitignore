@@ -1,0 +1,5 @@
+
+build-Helloworld-Ubuntu_Qt_5_15_2_GCC_64bit-Debug/moc_mainwindow.cpp
+build-Helloworld-Ubuntu_Qt_5_15_2_GCC_64bit-Debug/Helloworld
+*.o
+build-Helloworld-Ubuntu_Qt_5_15_2_GCC_64bit-Debug/moc_predefs.h
